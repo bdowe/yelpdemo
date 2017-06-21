@@ -20,6 +20,7 @@ gem 'carrierwave', '~> 1.0'
 gem "fog"
 gem "fog-aws"
 gem "figaro"
+gem "mini_magick"
 
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
